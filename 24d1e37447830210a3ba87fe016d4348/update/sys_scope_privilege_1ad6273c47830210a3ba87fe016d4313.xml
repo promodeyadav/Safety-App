@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Safety">24d1e37447830210a3ba87fe016d4348</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>pramod.citizen</sys_created_by>
+        <sys_created_on>2024-06-25 08:20:05</sys_created_on>
+        <sys_id>1ad6273c47830210a3ba87fe016d4313</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: scripting</sys_name>
+        <sys_package display_value="Safety" source="x_741912_safety">24d1e37447830210a3ba87fe016d4348</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">24d1e37447830210a3ba87fe016d4348</sys_scope>
+        <sys_update_name>sys_scope_privilege_1ad6273c47830210a3ba87fe016d4313</sys_update_name>
+        <sys_updated_by>pramod.citizen</sys_updated_by>
+        <sys_updated_on>2024-06-25 08:20:05</sys_updated_on>
+        <target_name>Glide API: scripting</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>
