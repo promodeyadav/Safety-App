@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Report a Safety Issue">c23ebf3c47070210a3ba87fe016d4359</sc_cat_item>
+        <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>pramod.citizen</sys_created_by>
+        <sys_created_on>2024-06-25 10:06:13</sys_created_on>
+        <sys_id>812ff3bc47070210a3ba87fe016d43bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Report a Safety Issue</sys_name>
+        <sys_package display_value="Safety" source="x_741912_safety">24d1e37447830210a3ba87fe016d4348</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">24d1e37447830210a3ba87fe016d4348</sys_scope>
+        <sys_update_name>sc_cat_item_category_812ff3bc47070210a3ba87fe016d43bc</sys_update_name>
+        <sys_updated_by>pramod.citizen</sys_updated_by>
+        <sys_updated_on>2024-06-25 10:06:13</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">24d1e37447830210a3ba87fe016d4348</application>
+        <file_path/>
+        <instance_id>8bfcda6ddb1271dcf697684e13961927</instance_id>
+        <instance_name>dev203539</instance_name>
+        <name>sc_cat_item_category_812ff3bc47070210a3ba87fe016d43bc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Report a Safety Issue">c23ebf3c47070210a3ba87fe016d4359</sc_cat_item><sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>pramod.citizen</sys_created_by><sys_created_on>2024-06-25 10:06:13</sys_created_on><sys_id>812ff3bc47070210a3ba87fe016d43bc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Services.Report a Safety Issue</sys_name><sys_package display_value="Safety" source="x_741912_safety">24d1e37447830210a3ba87fe016d4348</sys_package><sys_policy/><sys_scope display_value="Safety">24d1e37447830210a3ba87fe016d4348</sys_scope><sys_update_name>sc_cat_item_category_812ff3bc47070210a3ba87fe016d43bc</sys_update_name><sys_updated_by>pramod.citizen</sys_updated_by><sys_updated_on>2024-06-25 10:06:13</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1779780527</payload_hash>
+        <record_name>Services.Report a Safety Issue</record_name>
+        <reverted_from/>
+        <source>81d1e37447830210a3ba87fe016d43e0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pramod.citizen</sys_created_by>
+        <sys_created_on>2024-06-25 10:06:13</sys_created_on>
+        <sys_id>452ff3bc47070210a3ba87fe016d43c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1904edc37220000001</sys_recorded_at>
+        <sys_updated_by>pramod.citizen</sys_updated_by>
+        <sys_updated_on>2024-06-25 10:06:13</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>052ff3bc780702102f7d45ea7872b2c0</update_guid>
+        <update_guid_history>052ff3bc780702102f7d45ea7872b2c0:-1779780527</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Services.Report a Safety Issue">d34ff7bc47070210a3ba87fe016d436e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pramod.citizen</sys_created_by>
+        <sys_created_on>2024-06-25 10:06:55</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>1d81d61976a04d1e9c4bd621a9a3d2e4</sys_id>
+        <sys_metadata>812ff3bc47070210a3ba87fe016d43bc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Report a Safety Issue</sys_name>
+        <sys_package display_value="Safety" source="x_741912_safety">24d1e37447830210a3ba87fe016d4348</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">24d1e37447830210a3ba87fe016d4348</sys_scope>
+        <sys_scope_delete display_value="">4c30bc937fb2492899c5210a63182e90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_812ff3bc47070210a3ba87fe016d43bc</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_812ff3bc47070210a3ba87fe016d43bc">452ff3bc47070210a3ba87fe016d43c1</sys_update_version>
+        <sys_updated_by>pramod.citizen</sys_updated_by>
+        <sys_updated_on>2024-06-25 10:06:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
